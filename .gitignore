@@ -110,3 +110,4 @@ ENV/
 data/
 data_annotation.py
 yolov3.weights
+env/
